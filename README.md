@@ -19,3 +19,10 @@ A quick rundown of the topics to be covered is:
 - visualizing and preprocessing the data
 - discuss and build different machine learning algorithms
 - postprocessing our results
+
+### Workshop 4 : Introduction to Computer Vision
+The aim of this workshop is to introduce participants to Computer Vision through both theoretical and hands-on experiences. The workshop is given in Python.
+A quick rundown of the topics to be covered is:
+- image filtering
+- color spaces and transformations
+- object detection, recognition, and tracking
